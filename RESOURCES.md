@@ -1,4 +1,4 @@
-### Assignments
+### Assignment Learning Objectives and Resources
 
 1. HTML: Structure and Semantics 
   - non semantic: div and span
