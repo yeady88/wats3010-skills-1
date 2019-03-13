@@ -1,5 +1,8 @@
-### Assignment Learning Objectives and Resources
+# Assignment Learning Objectives and Resources
 
+**Follow README.md instructions in each of the 8 folders in this repo.  You will be graded on the index.html of each of the folders.**
+
+## Learning objectives for each directory
 1. HTML: Structure and Semantics 
   - non semantic: div and span
   - semantic: p, nav, header, footer, asside, section, article 
@@ -54,7 +57,7 @@
     - color
     - background-color
 
-### Links to unsolved
+###  Links to unsolved
     
 [HTML: Structure and Semantics](assignments/week-1/1-html-structure-semantics/index.html)  
 [CSS: Inheritance and Specificity](assignments/week-1/2-css-inheritance-specificity/index.html)  
@@ -120,5 +123,8 @@ serif, sans-serif
 
 ### Credits
 
- https://www.goodreads.com/quotes/600945-a-wonderful-serenity-has-taken-possession-of-my-entire-soul 
-
+[Walden, Thoreau](https://www.gutenberg.org/ebooks/205)  
+[Self Reliance, Emerson](https://www.gutenberg.org/files/16643/16643-h/16643-h.htm#SELF-RELIANCE)  
+[Roughing It, Mark Twain](https://www.gutenberg.org/ebooks/3177)  
+[Quote from JW vGoethe](https://www.goodreads.com/quotes/600945-a-wonderful-serenity-has-taken-possession-of-my-entire-soul)   
+[Paradiso, Dante](https://www.gutenberg.org/ebooks/1011)  
