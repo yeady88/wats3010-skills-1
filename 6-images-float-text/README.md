@@ -29,7 +29,7 @@ Sometimes we want to have text wrap around an image and this can be done using t
   height: auto;
 }
 ```
-5.  Apply the clearfix style to the wrapped class using the `:after` pseudo selector.  By applying block content after the "wrapped" div and a `clear:both` instruction, we clear both right and left floats in the container.
+5.  Apply the clearfix style to the wrapped class using the `:after` pseudo selector.  By applying block content after the "wrapped" div and a `clear:both` instruction, we clear both right and left floats in the container. We've used `overflow:hidden` to clear a float in the horizontal-layout exercise.  Clearfix is an alternative method.
 ```
 .wrapped:after {
   content: " "; 
@@ -40,7 +40,11 @@ Sometimes we want to have text wrap around an image and this can be done using t
 }
 ```
 
+## Resources
 Read about clearfix here: https://css-tricks.com/snippets/css/clear-fix/
+
+## Solution
+![Float text next to image](images/image-float-text.png)
  
 
 

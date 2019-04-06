@@ -5,11 +5,8 @@ We want to be able to put content side by side on the page.  Until now we've jus
 
 As we move into more advanced layouts the concept of nesting tags becomes important.  We'll speak of parent and child containers as we code HTML in such a way that tags surround other tags.  This allows for interaction between the styling of parent and child.
 
-In this assignment, we'll use some techniques for horizontal layout that are still in use but rapidly being replaced by new properties that we'll explore in future assignemnts.
-  
-  nav bar using float https://www.w3schools.com/css/css_navbar.asp
-  nav bar using inline-block https://www.w3schools.com/css/tryit.asp?filename=trycss_inline-block_nav
-
+In this assignment, we'll use some techniques for horizontal layout that are still in use but rapidly being replaced by new properties that we'll explore in future assignemnts.  Specially we'll use `float:left`, `display:inline-block`, and `position:relative` with `position:absolute`.
+ 
 ## Introduction to List Elements
 Lists are important for web developers and programmers in general.  HTML supplies to list tags: the ordered list which will render numbered items by default `ol` and the unordered list `ul` which will render items preceded by a bullet point by default.  Both `ol` and `ul` serve as containers for the list item `li`.  
 
@@ -18,7 +15,7 @@ We'll also use the `float:left` proerty/value to cause our list items to line up
 
 see https://www.w3schools.com/cssref/pr_class_float.asp
 
-The `display` property offers many options and will start with `block`, `inline`, and `inline-block` here.  You can see that CSS provides a way to make any element block or inline regardless of its default flow characteristic.  It also makes it possible to get the "best of both" with `inline-block`.
+The `display` property offers many options and we'll start with `block`, `inline`, and `inline-block` here.  You can see that CSS provides a way to make any element block or inline regardless of its default flow characteristic.  It also makes it possible to get the "best of both" with `inline-block`.
 
 The `position` property offers a set of options for designating positions in the document. We'll use position in conjunction with float and text-align to force two divs to opposite ends of the footer container. This means that the `footer` tag will be styled with `position:relative`. There are 5 position values:  
 1. `static` which is the default flow somewhat the order in which the html has been coded.
@@ -49,7 +46,7 @@ There are 3 levels
   overflow: hidden;
 }
   ```  
-  - The `li`s a styled with by floating them to the left.  
+  - The `li`s are styled by floating them to the left.  
   ```
   nav li {
   display: inline-block;
@@ -73,7 +70,7 @@ There are 3 levels
     background-color: aqua;
   }
 ```
-`- Finally mark the link that represents the content your viewing as active.  You need to add `class="active` to the home link and then spcifiy contrasting colors for the active link.
+`- Finally mark the link that represents the content you're viewing as active.  You need to add `class="active` to the home link and then spcifiy contrasting colors for the active link.
 ```
 nav li .active {
   background-color: black;
@@ -141,10 +138,12 @@ footer {
 }
 ```
 
-### Final Image
+## Resources 
+ 
+  [nav bar using float](https://www.w3schools.com/css/css_navbar.asp)  
+  [nav bar using inline-block](https://www.w3schools.com/css/tryit.asp?filename=trycss_inline-block_nav)
 
-![Layout Horizontal](images/layout-horizontal.png)
+## Solution
 
-
-
-
+### 3 techniques for horizontal layout  
+![Horizontal Layout](images/horizontal-layout.png)

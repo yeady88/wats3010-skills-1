@@ -29,9 +29,9 @@ a.active {
   background-color: black;
 }
 ```
-7. Add a Home link to the bottom of the index.html page.
+7. At the bottom of the page you want to provide a link that will take you home. If you use `""` for your href it causes the page to refresh which will take you home.
 ```
- <p><a href="./index-make.html">Home</a></p>
+ <p><a href="">Home</a></p>
 ```
 <p>Try out your navigation to see if it works as required</p>
 
@@ -49,20 +49,17 @@ a:active {
 }
 a:hover {
   color:red;
-}```
-
-### Final Image
-
-![Web Linking and Navigation Home](images/web-linking-navigation.png) 
-
-![Web Linking and Navigation About](images/nav-linking-about.png)
+}
+```
 
 
+## Resources
+see [html links](https://www.w3schools.com/html/html_links.asp)  
+and [target attribute](https://www.w3schools.com/tags/att_a_target.asp)
 
-
-
-see https://www.w3schools.com/html/html_links.asp
-https://www.w3schools.com/tags/att_a_target.asp
-
-
+## Solution  
+### index.html  
+![index.html](images/index.png)  
+### about.html  
+![index.html](images/about.png)
 

@@ -41,8 +41,7 @@ Add styles:
   NOTE:  If you've followed the requirements you will have a colorful and not very readable document. In general we want all of the styles to be recorded in an external style sheet, meaning no internal style tags and no inline style attributes.  We also do NOT to want to use id's or tag names as selectors.  The fact is that we want conventions to win over allowed configurations.  It's sometimes useful to break convention in the interest of experimentation. 
 
 
-### Final Image
-
-![CSS Inheritance and Specificity](images/css-specificity-inheritance.png)
+## Solution
+![CSS Specificity](images/css-inheritance-specificity.png)
 
 

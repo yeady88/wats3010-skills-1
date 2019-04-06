@@ -1,6 +1,6 @@
 # Layout 2 Dimensional
 
-The HTML Table is like a Spreadsheet, made up of rows and columns.  Semantically, an HTML table should only be used for tabular data.  In the early days of Web Development is was used for layout when a 2D layout was needed.  Now that is discouraged and there are other ways to achieve the 2D layout.  We'll study the `display:grid` layout  in a future module.  For this assignment we'll use a CSS3 property name `table-layout` to achieve a 2D layout without violating semantic intentions.
+The HTML Table is like a Spreadsheet, made up of rows and columns.  Semantically, an HTML table should only be used for tabular data.  In the early days of Web Development is was used for layout when a 2D layout was needed.  Now that is discouraged and there are other ways to achieve the 2D layout.  We'll study the `display:grid` layout  in a future module.  For this assignment we'll use a CSS3 property named `table-layout` to achieve a 2D layout without violating semantic intentions.
 
 We'll create a 2x2 table (2 rows each with 2 columns).
 
@@ -15,22 +15,24 @@ Row 2 Col 2 will display text accompanying the picture in Row 2 Col1.
 An index.html will content is provided and class names has been provided.  The images that will be used are in an images folder.  The index.html has divs that with id's that will be used to load the images as background content.
 
 The structure of the html provided is
-main
--- section
-----h1
-----table
-------div "row"
---------div "col"
---------div "col"
-----------p
-------div "row"
---------div "col"
-----------p
---------div "col"
-footer
+main  
+-- section  
+----h1  
+----table  
+------div "row"  
+--------div "col"  
+--------div "col"  
+----------h2  
+----------p  
+------div "row"  
+--------div "col"   
+----------h2   
+----------p  
+--------div "col"  
+footer  
 
 ## Requirements
-1. Add styles to set up the CSS table.  The fixed table layout tells the browser to detemine width of cells based on first row in table.  The border collapse set to separate leaves a gap between cells int he table and border spacing sets it to 10 pixels.
+1. Add a css/style.css file to set up the CSS table.  The fixed table layout tells the browser to detemine width of cells based on first row in table.  The border collapse set to separate leaves a gap between cells int he table and border spacing sets it to 10 pixels.
 ```
 .table {
   display: table;
@@ -90,12 +92,12 @@ h2 {
 }
 ```
 
+## Resources
 
+
+https://www.w3schools.com/CSSref/pr_tab_table-layout.asp  
 
 https://www.w3schools.com/cssref/pr_border-collapse.asp
 
-### Final Image
-
-![Images Float Text](images/images-float-text.png)
-
-
+## Solution
+![Solution](images/2-d-layout-table.png)

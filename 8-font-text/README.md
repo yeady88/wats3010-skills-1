@@ -46,53 +46,51 @@ Fonts can be downloaded or linked to.  Some of them are licensed for use for fre
 The browser comes with default (safe) fonts and can be set using the font family property in CSS.  The `font-family` propoperty is configured by specifying the font you want and if the browser can't find it a safe font, and if for some reason that's not available you can choose between *serif* and *sans-serif*.  The word *serif* means hook, so the fonts with "hooks" in them are "serif" and the fonts without hooks are "sans-serif".
 
 ### Requirements
+1. superscript
+1. hr
+1. rems
+1. 2 built in serif fonts
+1. 2 build in sans serif fonts
+1. 2 fonts using CDN from google fonts
 
-Exeripment with fonts and text styling by implementing the following.
+Experiment with fonts and text styling by implementing the following.
 
-1. Add a style sheet to the project.
-2. There is a single article in the html.  Make 6 copies.  For each article apply a different font such that there are:
+1. There is a single article in the html.  Make 6 copies.  For each article apply a different font such that there are:
   - 2 built in serif fonts
   - 2 build in sans serif fonts
   - 2 fonts using CDN from google fonts
     - follow these instructions to get google fonts: [Google Fonts Getting Started](https://developers.google.com/fonts/docs/getting_started)
-3. Add a link to the superscript so that it navigates to the attribution in the footer.
-4. Use this color scheme:
+2. Add a link to the superscript `<sup>` so that it navigates to the attribution in the footer.
+3. Use this color scheme:
   - body background color #b5c678
   - article background color #0c374d
   - header color: #0c374d
-5. Set default font size to 1.3rem
-6. Set article margin to T:2rem R:10% B:2rem L:10%
-7. Set article padding to 2rem
-8. For headers, aling the text to center
-9. For h2 increates letter spacing to .3rem
-10. For the super script style the underline away and make the text black with a red hvoer. Set the font size to 1rem.
-11. For the article set the margin to 3rem.
-12. Set the first letter of each article to a font size of 3rem.
-13.  The footer should appear black with no underlines for links and appear gray on hover.
-
-
-superscript
-hr
-rems
-2 built in serif fonts
-2 build in sans serif fonts
-2 fonts using CDN from google fonts
+4. Set default font size to 1.3rem
+5. Set article margin to T:2rem R:10% B:2rem L:10%
+6. Set article padding to 2rem
+7. For headers, aling the text to center
+8. For h2 increates letter spacing to .3rem
+9. For the super script style the underline away and make the text black with a red hvoer. Set the font size to 1rem.
+10. For the article set the margin to 3rem.
+11. Set the first letter (`article p:first-letter`) of each article to a font size of 3rem.
+12. The footer should appear black with no underlines for links and appear gray on hover.
 
 
 
 
-see https://uxplanet.org/10-tips-on-typography-in-web-design-13a378f4aa0d
-https://www.w3schools.com/cssref/css_websafe_fonts.asp
 
+## Resources
 
- https://fonts.google.com/
-    
-    https://www.w3schools.com/css/css_pseudo_elements.asp
+see [10 tips on typography](https://uxplanet.org/10-tips-on-typography-in-web-design-13a378f4aa0d)  
+[websafe fonts](https://www.w3schools.com/cssref/css_websafe_fonts.asp)   
+[Google fonts](https://fonts.google.com/)   
+[CSS Pseduo elements](https://www.w3schools.com/css/css_pseudo_elements.asp)
 
+## Solution
 
-### Final Image
+Browser was downsized to capture the who page. Actual dimension will vary.  
 
-![Fonts and Text](images/fonts-and-text.png)
+![Fonts Solution](images/text-fonts.png)
 
 
 

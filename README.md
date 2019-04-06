@@ -1,8 +1,5 @@
-# Assignment Learning Objectives and Resources
+### Assignments
 
-**Follow README.md instructions in each of the 8 folders in this repo.  You will be graded on the index.html of each of the folders.**
-
-## Learning objectives for each directory
 1. HTML: Structure and Semantics 
   - non semantic: div and span
   - semantic: p, nav, header, footer, asside, section, article 
@@ -57,16 +54,17 @@
     - color
     - background-color
 
-###  Links to unsolved
+### Links
     
-[HTML: Structure and Semantics](assignments/week-1/1-html-structure-semantics/index.html)  
-[CSS: Inheritance and Specificity](assignments/week-1/2-css-inheritance-specificity/index.html)  
-[Box Model](assignments/week-1/3-box-model/index.html)  
-[Layout Horizontal](assignments/week-1/4-layout-horizontal/index.html)  
-[Layout 2D](assignments/week-1/5-layout-2d/index.html)  
-[Image Float Text](assignments/week-1/5-images-float-text/index.html)  
-[Web Linking and Navigation](assignments/week-1/7-web-linking-navigation/index.html)  
-[Fonts and Text](assignments/week-1/8-font-text/index.html)
+[HTML: Structure and Semantics](https://rpeltz.bitbucket.io/assignments/week-1/1-html-structure-semantics/index-make.html)  
+[CSS: Inheritance and Specificity](https://rpeltz.bitbucket.io/assignments/week-1/2-css-inheritance-specificity/index-make.html)  
+[Box Model](https://rpeltz.bitbucket.io/assignments/week-1/3-box-model/index-make.html)  
+[Layout Horizontal](https://rpeltz.bitbucket.io/assignments/week-1/4-layout-horizontal/index-make.html)  
+[Layout 2D](https://rpeltz.bitbucket.io/assignments/week-1/5-layout-2d/index-make.html)  
+[Image Float Text](https://rpeltz.bitbucket.io/assignments/week-1/5-images-float-text/index-make.html)  
+[Web Linking and Navigation](https://rpeltz.bitbucket.io/assignments/week-1/7-web-linking-navigation/index-make.html)  
+[Fonts and Text](https://rpeltz.bitbucket.io/assignments/week-1/8-font-text/index-make.html)  
+    
 
 
 
@@ -123,8 +121,5 @@ serif, sans-serif
 
 ### Credits
 
-[Walden, Thoreau](https://www.gutenberg.org/ebooks/205)  
-[Self Reliance, Emerson](https://www.gutenberg.org/files/16643/16643-h/16643-h.htm#SELF-RELIANCE)  
-[Roughing It, Mark Twain](https://www.gutenberg.org/ebooks/3177)  
-[Quote from JW vGoethe](https://www.goodreads.com/quotes/600945-a-wonderful-serenity-has-taken-possession-of-my-entire-soul)   
-[Paradiso, Dante](https://www.gutenberg.org/ebooks/1011)  
+ https://www.goodreads.com/quotes/600945-a-wonderful-serenity-has-taken-possession-of-my-entire-soul 
+
