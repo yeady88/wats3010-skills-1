@@ -1,22 +1,22 @@
 ### Assignments
 
-1. HTML: Structure and Semantics 
-  - non semantic: div and span
+1. [HTML: Structure and Semantics](https://github.com/suwebdev/wats3010-skills-1/tree/master/1-html-structure-semantics)
+  - non semantc: div and span
   - semantic: p, nav, header, footer, asside, section, article 
-2. CSS: Inheritance and Specifitiy
+2. [CSS: Inheritance and Specificity](https://github.com/suwebdev/wats3010-skills-1/tree/master/2-css-inheritance-specificity)
    - Adding styles 
    - inheritance and specificity
    - selectors
    - properties and values
    - cascading: inline, internal, external (link with href)  
-3. Box Model:  margin, padding, borderer, normalizing, 
+3. [Box Model:  margin, padding, borderer, normalizing](https://github.com/suwebdev/wats3010-skills-1/tree/master/3-box-model) 
    - tags with out closing tag (img, link) 
    - box-model
    - text-align
    - margin: auto
    - border-sizing
    - CSS shortcuts
-4. Layout-horizontal
+4. [Layout-horizontal](https://github.com/suwebdev/wats3010-skills-1/tree/master/4-layout-horizontal)
    - horizontal alignment
    - using lists
    - inline vs block elements (span, div, p, ...)
@@ -24,7 +24,7 @@
    - display list items with inline block
    - float : left, float: right
    - display:inline, display: inline-block
-5. Layout-2D
+5. [Layout-2D](https://github.com/suwebdev/wats3010-skills-1/tree/master/5-layout-2d)
    - 2 dimensional alignment
    - display ( table, row, col) 
    - display: table
@@ -33,19 +33,19 @@
      - border-spacing
      - table-row, table-cell
    - position (relative, absolute, fixed, static)
-6. Images
+6. [Images](https://github.com/suwebdev/wats3010-skills-1/tree/master/6-images-float-text)
    - default inline and block
    - floating text next to
    - figure
    - attributes (src, alt) 
    - background images
-7. Web Linking
+7. [Web Linking](https://github.com/suwebdev/wats3010-skills-1/tree/master/7-web-linking-navigation)
    - paths: relative, root relative and absolute
    - anchors (links): internal, external linking, default style, hover
    - link, visited, hover, active
    - text-decoration
    - href
-8. Font and Text
+8. [Font and Text](https://github.com/suwebdev/wats3010-skills-1/tree/master/8-font-text)
     - google fonts
     - font size
     - line height
