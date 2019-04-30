@@ -54,7 +54,7 @@
     - color
     - background-color
 
-### Links
+### Links to tutorials
     
 [HTML: Structure and Semantics](https://rpeltz.bitbucket.io/assignments/week-1/1-html-structure-semantics/index-make.html)  
 [CSS: Inheritance and Specificity](https://rpeltz.bitbucket.io/assignments/week-1/2-css-inheritance-specificity/index-make.html)  
