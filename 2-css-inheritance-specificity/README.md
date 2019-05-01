@@ -24,14 +24,14 @@ font-weight
 
 Copy the `index.html` file from `1-htm-semantics-structure` directory into the `2-css-inheritance-specificity directory`.
 
-Create a new directory called **css** and containing a new file called **style.css**. Use the `link` tag to link the the css to the index.html.  This will server as your **external style sheet**.
+Create a new directory called **css** containing a new file called **style.css**. Use the `link` tag to link the css to the index.html.  This will serve as your **external style sheet**.
 
 Create a style tag in within the <head> of the index.html. This will serve as your **internal style tag**.
 
 Add styles:
-  1. Make the default background color black and the font color white for the page by specifying the body selector and using `background-color` and `color` properties in the external style sheet.  
+  1. Make the default background color black and the font color white for the page by specifying the body selector and using `background-color` and `color` properties in the external style sheet.   
   1. Make all headers (`h1`-`h6`) red by default in the external style sheet.
-  1. Create a `span` tag style in the external style sheet in which the font `color` is orange and the font size is '1.5em'.  `span` is a nonsemantic style like `div`.  `span` is inline by default where as `div` is block by default.  Inline styles render horizontally and Block styles render vertically.  `span` is useful for applying font styles because it doesn't interrupt the flow of the text.  Wrap the text "aim at something high" and  "Trust thyself" in span tags so that they take on the style specified by the `span` selector.
+  1. Create a `span` tag style in the external style sheet in which the font `color` is orange and the font size is `1.5rem`.  `span` is a nonsemantic style like `div`.  `span` is inline by default where as `div` is block by default.  Inline styles render horizontally and Block styles render vertically.  `span` is useful for applying font styles because it doesn't interrupt the flow of the text.  Wrap the text "aim at something high" and  "Trust thyself" in span tags so that they take on the style specified by the `span` selector.
   1. Within the internal style sheet specify h2 and h3 should have the color blue.
   1. Add an inline style attribute to the `h1` tag specifying that the color should be green.
   1. Add an inline style attribute to the `h2` tag specifying that the color should be fushia.
