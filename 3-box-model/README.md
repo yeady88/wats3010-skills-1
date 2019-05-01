@@ -1,4 +1,4 @@
-# HTML Tags
+# Box Model
 Box Model: *margin*, *padding*, *border*, *content*
 
 Explore the way browsers render some HTML tags by default 
