@@ -1,10 +1,10 @@
 # Images Float Text
 
-Images are inline elements but they have a height determined in part by their natural height - that is, the number of pixels wide and hide they have been cropped to.  We seen that we can use CSS to modify height and width with CSS as long as we maintain the natural ratio without skewing what's rendered in the browser.
+Images are inline elements but they have a height determined in part by their natural height - that is, the number of pixels wide and high they have been cropped to.  Wecan use CSS to modify height and width with CSS as long as we maintain the natural ratio without skewing what's rendered in the browser.
 
-While images have both qualities of inline and block, it makes sense to style them emplicitly as `block` or `inline-block`.  It's also useful to pick one dimension (width or height) to set a fixed size on and then set the other to `auto` to avoid skewing the result.
+While images have both qualities of inline and block, it makes sense to style them implicitly as `block` or `inline-block`.  It's also useful to pick one dimension (width or height) to set a fixed size on and then set the other to `auto` to avoid skewing the result.
 
-Sometimes we want to have text wrap around an image and this can be done using the `float` property.  When using the float property we want to be sure to clear it so it doesn't effect content that follows the floated content.  We've seen this done by setting overflow: hidden in an earlier assignment.  In this assignment we'll use the clearfix "trick" which write empty content after the container that contains floated content.
+If you place text next to an image it will render inline next to the bottom of the image. Sometimes we want it to render next to the top of the image and then run along side. When we want to wrap text around an image we can use the `float` property on the image.  When using the float property we want to be sure to clear it so it doesn't effect content that follows the floated content.  We've seen this done by setting overflow: hidden in an earlier assignment.  In this assignment we'll use the clearfix "trick" which write empty content after the container that contains floated content.
 
 ## Requirements
 
