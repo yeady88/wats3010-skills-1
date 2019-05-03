@@ -66,13 +66,8 @@ There are 3 levels in the list heirarchy: the list, the list item and the anchor
   2. The `li`s are styled by floating them to the left.  
   ```
   nav li {
-  display: inline-block;
-  font-size: 1.2rem;
-  line-height: 40px;
-  height: 40px;
-  width: 60px;
-  text-align: center;
-}
+    float: left;
+  }
 ```
   3. We style the anchor tag to remove the default underline on anchor links with text decoration set to none. We set the anchor tag to block to that its height expands to fill the parent `li`. We provide contrasting foreground and background color. Anchors tags have a pseudo selector called `hover` which we preface with a colon `:` when styling.  This pseudo tag allow us to introduce user interaction with out adding any JavaScript.  We set this up to change the background of the anchor tag to aqua when the user hovers over it. 
   ```
@@ -86,8 +81,9 @@ There are 3 levels in the list heirarchy: the list, the list item and the anchor
   nav a:hover {
     background-color: aqua;
   }
+
 ```
-- Finally mark the link that represents the content you're viewing as active.  You need to add `class="active` to the home link and then specify contrasting colors for the active link.
+- Finally mark the link that represents the content you're viewing as active.  You need to add `class="active"` to the home link and then specify contrasting colors for the active link.
 ```
 nav li .active {
   background-color: black;
@@ -95,7 +91,7 @@ nav li .active {
 }
 ```
 
-### Social Links with Display
+### Social Links with Display Inline-Block
 There are 3 levels in social links.  For specificity be sure that the `ul` parent of the social links has the "social-link" class assigned. Note that the href attribute in the anchor tag for social links is taking the user to an external site.  Because of that an extra attribute value pair `_target="blank"` has been added with the affect that that link opens the page in a new tab.  This is to prevent the site from "losing" the user as they navigate away into a new website.
 
   - Set list style type to none on the `ul`
