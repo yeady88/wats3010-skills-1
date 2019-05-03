@@ -21,8 +21,8 @@ https://meyerweb.com/eric/tools/css/reset/
   - Add a `p` tag around the text next to the clouds-dark-dramatic picture
 4. The  kitten picture size is supplied by the 200/300 parameters in the URL. The clouds-dark-dramatic image has assumed it's default "natural" size.  You can find this size by inspecting.  We find it to be 1280x1920.  This is a width x height size in pixels.  We want to resize the large picture but in order to do this without skewing it, we have to keep the same ratio of width to height.  The easiest way to to divide width and height by the same value.  The height of a laptop screen is about 1280 x 800 pixels depending on resolution.  If we want the picture to be half the height of the screen, we need to reduce the height to around 400. I'll divide the images natural dimensions by 4 and set the height and width to 320 x 480.  This size can be changed in `height`/`width` attributes or in a style sheet.  In general it is better not to restyle images with style and attributes, but to crop them to the desired size.  
 5. Add a new style sheet (css/style.css) and apply styles to the elements on the page.
-  - for the `h1` set font size to 3em and margin to .5 rem.  An `rem` is a unit that is approximately the size of the letter m for the default font-size at the root of the document.
-  - for the `h2`set the font size to 1.5em and the margin to .3 rem.
+  - for the `h1` set font size to `3rem` and margin to .5 rem.  An `rem` is a unit that is approximately the size of the letter m for the default font-size at the root of the document.
+  - for the `h2`set the font size to `1.5rem` and the margin to `.3rem`.
   - for the `p` set the padding to 10 `px`.  Pixels are depending on resolution but are exact where as the `rem` is relative.  Notice the different between apply padding vs margin to an element.  Padding provides space between the content and the boundary of the element whereas margin provides space between the element and it's sibling element. If there's only one block element on a line it's difficult to see the difference, but you can see it with dev tools inspector.
   - for the `img` provide a margin of 10px
   - for the `figcaption` provide a margin of 10px
@@ -34,8 +34,8 @@ https://meyerweb.com/eric/tools/css/reset/
   - Apply border styles
   - border radius 10 px
   - border color black
-  - border width 2px
-  - shortcut ``` border: 1px solid black;```
+  - border width 10px
+  - shortcut ``` border: 10px solid black;```
   - box-sizing ` box-sizing: border-box;`  Border box allows padding and border to be part of the content width instead of adding additional width.
 
 ## Resources  
