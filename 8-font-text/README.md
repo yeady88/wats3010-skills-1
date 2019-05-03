@@ -24,7 +24,7 @@ There are multiple ways to specify color on the Web:
     - `red` is rgb(255,0,0) 
     - `green` is rgb(0,255,0) 
     - `blue` is  rgb(0,0,255)
-    - a translucent white could be specified with a fractionaly opacity like rgb(255,255,255,.5)
+    - a translucent white could be specified with a fractionaly opacity like rgba(255,255,255,.5)
   - HSB which uses hue, saturation and brightness
 
 Besides contrast it's important to consider accessbility issues like color blindess and visual disabilities.  There are tools for testing color for color blindess and font-size.
@@ -50,7 +50,7 @@ The browser comes with default (safe) fonts and can be set using the font family
 1. hr
 1. rems
 1. 2 built in serif fonts
-1. 2 build in sans serif fonts
+1. 2 built in sans serif fonts
 1. 2 fonts using CDN from google fonts
 
 Experiment with fonts and text styling by implementing the following.
@@ -68,10 +68,10 @@ Experiment with fonts and text styling by implementing the following.
 4. Set default font size to 1.3rem
 5. Set article margin to T:2rem R:10% B:2rem L:10%
 6. Set article padding to 2rem
-7. For headers, aling the text to center
-8. For h2 increates letter spacing to .3rem
-9. For the super script style the underline away and make the text black with a red hvoer. Set the font size to 1rem.
-10. For the article set the margin to 3rem.
+7. For headers, align the text to center
+8. For h2 increase letter spacing to .3rem
+9. For the super script style the underline away and make the text black with a red hover. Set the font size to 1rem.
+10. For the article paragraph, set the margin to 3rem.
 11. Set the first letter (`article p:first-letter`) of each article to a font size of 3rem.
 12. The footer should appear black with no underlines for links and appear gray on hover.
 
@@ -88,7 +88,7 @@ see [10 tips on typography](https://uxplanet.org/10-tips-on-typography-in-web-de
 
 ## Solution
 
-Browser was downsized to capture the who page. Actual dimension will vary.  
+Browser was downsized to capture the whole page. Actual dimension will vary.  
 
 ![Fonts Solution](images/text-fonts.png)
 
