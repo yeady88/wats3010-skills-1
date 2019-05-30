@@ -1,22 +1,29 @@
-### Assignments
+# Skills - 1
+Click on the link for each tutorial below.  Follow the instructions in the README.md.  Use the walkthrough video to help with understanding and carrying out instructions.
 
-1. [HTML: Structure and Semantics](https://github.com/suwebdev/wats3010-skills-1/tree/master/1-html-structure-semantics)
-  - non semantc: div and span
-  - semantic: p, nav, header, footer, asside, section, article 
-2. [CSS: Inheritance and Specificity](https://github.com/suwebdev/wats3010-skills-1/tree/master/2-css-inheritance-specificity)
+## Tutorials
+
+1. [HTML: Structure and Semantics](https://github.com/suwebdev/wats3010-skills-1/tree/master/1-html-structure-semantics)  
+[Video](https://youtu.be/61_lkpPJfzw)  
+  - non semantic tags: div and span
+  - semantic tags: p, nav, header, footer, asside, section, article 
+2. [CSS: Inheritance and Specificity](https://github.com/suwebdev/wats3010-skills-1/tree/master/2-css-inheritance-specificity)  
+[Video](https://youtu.be/bATU7ouix1c)  
    - Adding styles 
    - inheritance and specificity
    - selectors
    - properties and values
    - cascading: inline, internal, external (link with href)  
-3. [Box Model:  margin, padding, borderer, normalizing](https://github.com/suwebdev/wats3010-skills-1/tree/master/3-box-model) 
+3. [Box Model:  margin, padding, borderer, normalizing](https://github.com/suwebdev/wats3010-skills-1/tree/master/3-box-model)  
+[Video](https://youtu.be/ektiTAWcK60)  
    - tags with out closing tag (img, link) 
    - box-model
    - text-align
    - margin: auto
    - border-sizing
    - CSS shortcuts
-4. [Layout-horizontal](https://github.com/suwebdev/wats3010-skills-1/tree/master/4-layout-horizontal)
+4. [Layout-horizontal](https://github.com/suwebdev/wats3010-skills-1/tree/master/4-layout-horizontal)  
+[Video](https://youtu.be/B6yH5b2aqrE)  
    - horizontal alignment
    - using lists
    - inline vs block elements (span, div, p, ...)
@@ -24,7 +31,8 @@
    - display list items with inline block
    - float : left, float: right
    - display:inline, display: inline-block
-5. [Layout-2D](https://github.com/suwebdev/wats3010-skills-1/tree/master/5-layout-2d)
+5. [Layout-2D](https://github.com/suwebdev/wats3010-skills-1/tree/master/5-layout-2d)  
+[Video](https://youtu.be/0UW3M9WP-wQ)  
    - 2 dimensional alignment
    - display ( table, row, col) 
    - display: table
@@ -33,19 +41,22 @@
      - border-spacing
      - table-row, table-cell
    - position (relative, absolute, fixed, static)
-6. [Images](https://github.com/suwebdev/wats3010-skills-1/tree/master/6-images-float-text)
+6. [Image Float Text](https://github.com/suwebdev/wats3010-skills-1/tree/master/6-images-float-text)  
+[Video](https://youtu.be/sH9hUz0THl4)
    - default inline and block
    - floating text next to
    - figure
    - attributes (src, alt) 
    - background images
-7. [Web Linking](https://github.com/suwebdev/wats3010-skills-1/tree/master/7-web-linking-navigation)
+7. [Web Linking](https://github.com/suwebdev/wats3010-skills-1/tree/master/7-web-linking-navigation)  
+[Video](https://youtu.be/pCn1gbwn37k)  
    - paths: relative, root relative and absolute
    - anchors (links): internal, external linking, default style, hover
    - link, visited, hover, active
    - text-decoration
    - href
-8. [Font and Text](https://github.com/suwebdev/wats3010-skills-1/tree/master/8-font-text)
+8. [Fonts and Text](https://github.com/suwebdev/wats3010-skills-1/tree/master/8-font-text)  
+[Video](https://youtu.be/vZYAZ6FvC8o)
     - google fonts
     - font size
     - line height
@@ -54,56 +65,44 @@
     - color
     - background-color
 
-### Links to tutorials
-    
-[HTML: Structure and Semantics](https://rpeltz.bitbucket.io/assignments/week-1/1-html-structure-semantics/index-make.html)  
-[CSS: Inheritance and Specificity](https://rpeltz.bitbucket.io/assignments/week-1/2-css-inheritance-specificity/index-make.html)  
-[Box Model](https://rpeltz.bitbucket.io/assignments/week-1/3-box-model/index-make.html)  
-[Layout Horizontal](https://rpeltz.bitbucket.io/assignments/week-1/4-layout-horizontal/index-make.html)  
-[Layout 2D](https://rpeltz.bitbucket.io/assignments/week-1/5-layout-2d/index-make.html)  
-[Image Float Text](https://rpeltz.bitbucket.io/assignments/week-1/5-images-float-text/index-make.html)  
-[Web Linking and Navigation](https://rpeltz.bitbucket.io/assignments/week-1/7-web-linking-navigation/index-make.html)  
-[Fonts and Text](https://rpeltz.bitbucket.io/assignments/week-1/8-font-text/index-make.html)  
-    
 
 
 
-### Links to helpful examples
+### Links to helpful examples from W3Schools.com
+ [HTML Elements](https://www.w3schools.com/html/html_elements.asp)   
+ [HTML Attributes](https://www.w3schools.com/html/html_attributes.asp)  
+ [Styling with CSS](https://www.w3schools.com/html/html_css.asp)  
+ [HTML Colors](https://www.w3schools.com/html/html_colors.asp)   
+ [HTML Comments](https://www.w3schools.com/html/html_comments.asp)     
+ [HTML Headings](https://www.w3schools.com/html/html_headings.asp)   
+ [HTML Paragraphs](https://www.w3schools.com/html/html_paragraphs.asp)   
+ [HTML links](https://www.w3schools.com/html/html_links.asp)  
+ [HTML Lists](https://www.w3schools.com/html/html_lists.asp)   
+ [Block and Inline Elements](https://www.w3schools.com/html/html_blocks.asp)   
+ [HTML Class Attribute](https://www.w3schools.com/html/html_classes.asp)   
+ [HTML ID Attribute](https://www.w3schools.com/html/html_id.asp)  
+ [HTML Entities](https://www.w3schools.com/html/html_entities.asp)   
+ [HTML Layouts](https://www.w3schools.com/html/html_layout.asp)   
+ [CSS Navbar](https://www.w3schools.com/css/css_navbar.asp)  
+ [CSS Anchor Tag Styling](https://www.w3schools.com/css/css_link.asp)   
+ [CSS Float](https://www.w3schools.com/css/css_float.asp)  
+ [HTML Image Tag](https://www.w3schools.com/html/html_images.asp)      
+[CSS Table Layout](https://www.w3schools.com/cssref/pr_tab_table-layout.asp)  
 
- https://www.w3schools.com/html/html_elements.asp 
- https://www.w3schools.com/html/html_attributes.asp 
- https://www.w3schools.com/html/html_css.asp 
- https://www.w3schools.com/html/html_colors.asp 
-
- https://www.w3schools.com/html/html_comments.asp 
- https://www.w3schools.com/html/html_headings.asp 
- https://www.w3schools.com/html/html_paragraphs.asp 
- https://www.w3schools.com/html/html_links.asp 
- https://www.w3schools.com/html/html_lists.asp 
- https://www.w3schools.com/html/html_blocks.asp 
-
- https://www.w3schools.com/html/html_classes.asp 
- https://www.w3schools.com/html/html_id.asp 
-
+### Links to Mozilla Developer Network (MDN) References
  https://developer.mozilla.org/en-US/docs/Web/HTML/Element 
  https://developer.mozilla.org/en-US/docs/Web/CSS 
  https://developer.mozilla.org/en-US/docs/Web/CSS/Reference 
 
- https://www.w3schools.com/html/html_entities.asp 
-
- https://www.w3schools.com/html/html_layout.asp 
-
+ 
+### Dummy Content Generators
  http://www.blindtextgenerator.com/lorem-ipsum 
- https://www.w3schools.com/css/css_navbar.asp 
- https://www.w3schools.com/css/css_link.asp 
- https://www.w3schools.com/css/css_float.asp 
- https://www.w3schools.com/html/html_images.asp 
+ https://hipsum.co/
 
-https://www.w3schools.com/cssref/pr_tab_table-layout.asp
-
+### CSS Tricks Reading
  https://css-tricks.com/almanac/properties/d/display/ 
 
- https://www.w3.org/2005/10/howto-favicon 
+
 
 ### Links to better understanding
 
