@@ -90,35 +90,23 @@ Click on the link for each tutorial below.  Follow the instructions in the READM
 [CSS Table Layout](https://www.w3schools.com/cssref/pr_tab_table-layout.asp)  
 
 ### Links to Mozilla Developer Network (MDN) References
- https://developer.mozilla.org/en-US/docs/Web/HTML/Element 
- https://developer.mozilla.org/en-US/docs/Web/CSS 
- https://developer.mozilla.org/en-US/docs/Web/CSS/Reference 
+ [HTML Elements Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)    
+ [CSS: Cascading Style Sheets](https://developer.mozilla.org/en-US/docs/Web/CSS) 
+ [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) 
 
  
 ### Dummy Content Generators
- http://www.blindtextgenerator.com/lorem-ipsum 
- https://hipsum.co/
+ [Lorem-ipsum](http://www.blindtextgenerator.com/lorem-ipsum)  
+ [Hipster ipsum](https://hipsum.co/)
 
 ### CSS Tricks Reading
- https://css-tricks.com/almanac/properties/d/display/ 
-
+ [CSS Tricks: CSS display property](https://css-tricks.com/almanac/properties/d/display/)   
 
 
 ### Links to better understanding
-
-Using in browsers: https://caniuse.com/
-
-naming things
-
-google fonts
-
-serif, sans-serif
+[Check to see if code can run in a browser](https://caniuse.com/)  
 
 
 
 
-
-### Credits
-
- https://www.goodreads.com/quotes/600945-a-wonderful-serenity-has-taken-possession-of-my-entire-soul 
 
