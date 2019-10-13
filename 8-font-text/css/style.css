@@ -1,0 +1,75 @@
+
+.times-new-roman {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.arial-helvetica {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.cambria {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.gil-sans {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.lato{
+    font-family: 'lato', sans-serif;
+
+}
+
+.oswald{
+    font-family: 'oswald', sans-serif;
+}
+
+.poppins{
+    font-family: 'poppins', sans-serif;
+}
+
+body{
+    background-color: #b5c678;
+    font-size: 1.3rem;
+}
+
+article {
+    background-color: #0c374d;
+    margin: 2rem 10%;
+    padding: 2rem;
+    border-radius: 1rem;
+}
+
+h1, h2, h3 {
+    color: #0c374d;
+    text-align: center;
+}
+
+h2{
+    letter-spacing: 0.3rem;
+
+}
+
+sup a{
+    text-decoration: none;
+    color:black;
+    font-size: 1rem;
+}
+sup a:hover {
+    color: red;
+}
+article p {
+    margin: 1rem;
+    color:white;
+}
+article p:first-letter {
+    font-size: 3rem;
+}
+footer a {
+    color:black;
+    text-decoration: none;
+    {
+
+        footer a: hover{
+    color:gray;
+}
